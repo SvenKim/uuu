@@ -4,4 +4,5 @@
 https://idea-PC/svn/firststore/		本外机都不用密码
 https://127.0.0.1/svn/firststore/	（只有本机可用）
 https://10.10.10.114/svn/firststore/	本外机都需要密码才能登陆
-									-2019.4.4
+									-2019.7.18
+end
